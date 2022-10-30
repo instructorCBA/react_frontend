@@ -1,0 +1,76 @@
+{
+  "motorcycles": [
+    {
+      "id": 1,
+      "trademark": "Honda",
+      "model": "2020",
+      "reference": "CB-650-R",
+      "price": "6500000",
+      "image": "https://a5i4f6g5.stackpathcdn.com/images/cms/Gris-48571.png",
+      "supplier": "Honda Motors"
+    },
+    {
+      "trademark": "Suzuki",
+      "model": "2021",
+      "reference": "NEW BEST 125 FI",
+      "price": "5600000",
+      "image": "https://suzuki.com.co/sites/default/files/2021-03/SUZUKI%20NEW%20BEST%20125%20NEGRA-min.png",
+      "supplier": "Suzuki Motors",
+      "id": 4
+    },
+    {
+      "trademark": "SUZUKI",
+      "model": "2021",
+      "reference": "NEW GIXXER 150 ABS",
+      "price": "9500000",
+      "image": "https://suzuki.com.co/sites/default/files/2021-05/NEW-GIXXER-150-FI-ABS-NEGRA.png",
+      "supplier": "Suzuki Motors",
+      "id": 6
+    },
+    {
+      "trademark": "SUZUKI",
+      "model": "2022",
+      "reference": "GSX-R150 ABS",
+      "price": "14860000",
+      "image": "https://www.suzuki.com.co/sites/default/files/2022-08/gsx-r150azul.png",
+      "supplier": "Suzuki Motors",
+      "id": 7
+    },
+    {
+      "trademark": "YAMAHA",
+      "model": "2023",
+      "reference": "R15",
+      "price": "14700000",
+      "image": "https://yamahayamamotos.com.co/wp-content/uploads/2019/04/blue-r15.png",
+      "supplier": "Yamaha Motors",
+      "id": 8
+    },
+    {
+      "trademark": "HONDA",
+      "model": "2023",
+      "reference": "CB 190R 2023",
+      "price": "12730000",
+      "image": "https://a5i4f6g5.stackpathcdn.com/images/cms/CB190R_Red.png",
+      "supplier": "Honda Motors",
+      "id": 9
+    },
+    {
+      "trademark": "YAMAHA",
+      "model": "2022",
+      "reference": "GRIZZLY 350",
+      "price": "30000000",
+      "image": "https://yamaha-mundoyamaha.com/wp-content/uploads/2022/07/grizzly350_color_azul.png",
+      "supplier": "Yamaha Motor",
+      "id": 10
+    },
+    {
+      "trademark": "HONDA",
+      "model": "2023",
+      "reference": "X BLADE 160",
+      "price": "10830000",
+      "image": "https://a5i4f6g5.stackpathcdn.com/images/cms/Honda_XBlade_GRIS.png",
+      "supplier": "Honda Motor",
+      "id": 11
+    }
+  ]
+}
